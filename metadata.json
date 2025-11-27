@@ -1,0 +1,5 @@
+{
+  "name": "NDRF Sentinel Command",
+  "description": "Real-time command center for monitoring rescue team vitals (Heart Rate, SpO2) and environmental hazards (Gas, Temp) with AI-powered risk assessment.",
+  "requestFramePermissions": []
+}
